@@ -91,7 +91,7 @@ namespace sistemaLaserAPI.Controllers
                 return NotFound();
             return Ok(new
             {
-                Success =true,
+                Success = true,
                 Message = "Incidencia eliminada"
             });
         }
