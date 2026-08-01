@@ -1,0 +1,6 @@
+@sistemaLaserAPI_HostAddress = http://localhost:5240
+
+GET {{sistemaLaserAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
